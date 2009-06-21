@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Driggle Nachrichten
-Plugin URI: http://de.driggle.com/app/wordpress
+Plugin URI: http://de.driggle.com/
 Description: Die Schlagzeilen des Tages direkt im Blog anzeigen.
 Author: Philip Matesanz
 Version: 1.0

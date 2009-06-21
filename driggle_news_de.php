@@ -143,4 +143,4 @@ function DriggleNewsControl()
 
 add_action('plugins_loaded', 'DriggleNewsInit');
 
-?> 
+?>

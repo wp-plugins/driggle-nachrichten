@@ -85,8 +85,6 @@ function DriggleNewsOutput($Args)
 			'<ul>'.
 			'<script type="text/javascript" src="http://s.driggle.com/app/widget?a=wp&amp;v='.$DriggleNewsVersion.'&amp;c='.join(',',$Options['Categorys']).'&amp;o='.$Options['Order'].'&amp;l='.$Options['Limit'].'&amp;cc=de"></script>'.
 			'<script type="text/javascript">__Driggle_News_BeforeItem = \'<li>\'; __Driggle_News_AfterItem = \'</li>\'; __Driggle_News_Init();</script>'.
-			'</ul>'.
-			'<ul style="list-style-type: none;">'.
 			'<li style="list-style-type: none;">Von: <a href="http://de.driggle.com/">Driggle Nachrichten</a></li>'.
 			'</ul>'.
 		  $Args['after_widget'];

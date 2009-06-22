@@ -20,8 +20,7 @@ werden.
 == Installation ==
 
 Laden Sie die Datei driggle_news_de.php in das 
-Plugin-Verzeichnis, dieses befindet sich für   
-gewöhnlich im Ordner wp-content.
+Plugin-Verzeichnis, dieses befindet sich für gewöhnlich im Ordner wp-content.
 
 Haben Sie diesen Schritt beendet, melden Sie 
 sich bitte im Admin Panel an und rufen die
